@@ -1,0 +1,13 @@
+Package: testlme4
+Type: Package
+Title: Test some functionality of lme4
+Version: 0.1
+Date: 2015-03-21
+Author: Thierry Onkelinx
+Maintainer: Thierry Onkelinx <thierry.onkelinx@inbo.be>
+Description: Test some functionality of lme4
+License: GPL-3
+Depends:
+    lme4
+Suggests: 
+    testthat
